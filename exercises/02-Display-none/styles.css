@@ -1,1 +1,15 @@
-/* your code here */
+h2 {
+	visibility: hidden;
+}
+
+#mySecondh2 {
+	display: none;
+}
+
+#myUl {
+	display: inline;
+}
+
+strong {
+	display: block;
+}
